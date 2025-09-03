@@ -1,5 +1,5 @@
 [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/crazyrat-software/langs?time_range=one_year&compact=True&theme=dark)](https://githubtrends.io)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=crazyrat-software&layout=compact)
 
 
